@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BPB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:cooked_beef"
+    },
+    "P": {
+      "item": "tutorial:quark_pieces"
+    }
+  },
+  "result": {
+    "item": "tutorial:hellish_steak",
+    "count": 1
+  }
+}

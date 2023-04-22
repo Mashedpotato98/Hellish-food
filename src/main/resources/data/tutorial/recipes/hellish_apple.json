@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "tutorial:quark_pieces"
+    }
+  ],
+  "result": {
+    "item": "tutorial:hellish_apple",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "item.tutorial.quark_seeds": "Quark Seeds",
+
+  "block.tutorial.quark_crop_stage0": "Quark Crop",
+  "block.tutorial.quark_crop_stage1": "Quark Crop",
+  "block.tutorial.quark_crop_stage2": "Quark Crop",
+  "block.tutorial.quark_crop_stage3": "Quark Crop",
+  "block.tutorial.quark_crop_stage4": "Quark Crop",
+  "block.tutorial.quark_crop_stage5": "Quark Crop",
+  "block.tutorial.quark_crop_stage6": "Quark Crop",
+  "block.tutorial.quark_crop_stage7": "Quark Crop",
+
+  "item.tutorial.quark_pieces": "Quark Pieces",
+
+  "item.tutorial.hellish_apple": "Hellish Apple",
+  "item.tutorial.hellish_carrot": "Hellish Carrot",
+  "item.tutorial.hellish_steak": "Hellish Steak",
+
+  "item.tutorial.enderio_warts": "Enderio Warts",
+
+  "item.tutorial.enderio_apple": "Enderio Apple",
+  "item.tutorial.enderio_carrot": "Enderio Carrot",
+  "item.tutorial.enderio_steak": "Enderio Steak"
+}

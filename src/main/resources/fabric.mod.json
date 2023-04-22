@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "tutorial",
+  "version": "1-00",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Hellish Farming",
+  "description": "mod about crops in the nether and end",
   "authors": [
-    "Me!"
+    "comradechonky69"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,12 +14,12 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/tutorial/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.fabricmc.tutorial.TutorialMod"
     ]
   },
   "mixins": [

@@ -1,6 +1,6 @@
 package net.fabricmc.tutorial.block.custom;
 
-import net.fabricmc.tutorial.TutorialMod;
+import net.fabricmc.tutorial.block.ModBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.CropBlock;
@@ -28,7 +28,7 @@ public class QuarkCropBlock extends CropBlock {
     }
 
     public ItemConvertible getSeedsItem(){
-        return TutorialMod.QUARK_SEEDS;
+        return ModBlocks.QUARK_SEEDS;
     }
 
     public VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context){

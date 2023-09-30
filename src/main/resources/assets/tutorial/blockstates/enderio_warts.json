@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "tutorial:block/enderio_warts" }
+    "": { "model": "hellish:block/enderio_warts" }
   }
 }

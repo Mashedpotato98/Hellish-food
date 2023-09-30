@@ -1,6 +1,6 @@
-package net.fabricmc.tutorial.block.custom;
+package net.fabricmc.hellish.block.custom;
 
-import net.fabricmc.tutorial.block.ModBlocks;
+import net.fabricmc.hellish.block.ModBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.CropBlock;

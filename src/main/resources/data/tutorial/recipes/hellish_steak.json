@@ -8,11 +8,11 @@
       "item": "minecraft:cooked_beef"
     },
     "P": {
-      "item": "tutorial:quark_pieces"
+      "item": "hellish:quark_pieces"
     }
   },
   "result": {
-    "item": "tutorial:hellish_steak",
+    "item": "hellish:hellish_steak",
     "count": 1
   }
 }

@@ -5,11 +5,11 @@
       "item": "minecraft:golden_carrot"
     },
     {
-      "item": "tutorial:quark_pieces"
+      "item": "hellish:quark_pieces"
     }
   ],
   "result": {
-    "item": "tutorial:hellish_carrot",
+    "item": "hellish:hellish_carrot",
     "count": 1
   }
 }

@@ -1,8 +1,8 @@
-package net.fabricmc.tutorial.block;
+package net.fabricmc.hellish.block;
 
 
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
-import net.fabricmc.tutorial.block.custom.QuarkCropBlock;
+import net.fabricmc.hellish.block.custom.QuarkCropBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.CropBlock;
 import net.minecraft.block.Material;
@@ -28,8 +28,8 @@ public class ModBlocks {
     public static void registerBlocks(){
         //QUARK SEEDS
 
-		Registry.register(Registries.ITEM,new Identifier("tutorial","quark_seeds"),QUARK_SEEDS);
-		Registry.register(Registries.BLOCK,new Identifier("tutorial","quark_crop"),QUARK_CROP_BLOCK);
+		Registry.register(Registries.ITEM,new Identifier("hellish","quark_seeds"),QUARK_SEEDS);
+		Registry.register(Registries.BLOCK,new Identifier("hellish","quark_crop"),QUARK_CROP_BLOCK);
 
 
 		//hellish

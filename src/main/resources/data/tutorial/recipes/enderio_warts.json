@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tutorial:quark_pieces"
+      "item": "hellish:quark_pieces"
     },
     {
       "item": "minecraft:chorus_fruit"
     }
   ],
   "result": {
-    "item": "tutorial:enderio_warts",
+    "item": "hellish:enderio_warts",
     "count": 3
   }
 }

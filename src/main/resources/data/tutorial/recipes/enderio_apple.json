@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tutorial:enderio_warts"
+      "item": "hellish:enderio_warts"
     },
     {
       "item": "minecraft:golden_apple"
     }
   ],
   "result": {
-    "item": "tutorial:enderio_apple",
+    "item": "hellish:enderio_apple",
     "count": 1
   }
 }

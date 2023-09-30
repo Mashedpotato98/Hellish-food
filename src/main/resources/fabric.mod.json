@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "tutorial",
-  "version": "1-00",
+  "id": "hellish",
+  "version": "2-00",
 
   "name": "Hellish Farming",
   "description": "mod about crops in the nether and end",
@@ -14,12 +14,12 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/tutorial/icon.png",
+  "icon": "assets/hellish/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.tutorial.TutorialMod"
+      "net.fabricmc.hellish.HellishMod"
     ]
   },
   "mixins": [

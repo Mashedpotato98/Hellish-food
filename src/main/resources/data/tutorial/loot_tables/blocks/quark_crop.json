@@ -5,13 +5,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tutorial:quark_pieces"
+          "name": "hellish:quark_pieces"
         }
       ],
       "conditions": [
         {
           "condition": "minecraft:block_state_property",
-          "block": "tutorial:quark_crop",
+          "block": "hellish:quark_crop",
           "properties": {
             "age": "7"
           }

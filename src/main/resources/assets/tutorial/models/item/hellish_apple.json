@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorial:item/hellish_apple"
+    "layer0": "hellish:item/hellish_apple"
   }
 }

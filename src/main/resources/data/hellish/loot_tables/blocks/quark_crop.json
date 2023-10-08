@@ -1,8 +1,12 @@
 {
   "pools": [
     {
-      "rolls": 1,
+      "rolls": 2,
       "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hellish:quark_seeds"
+        },
         {
           "type": "minecraft:item",
           "name": "hellish:quark_pieces"

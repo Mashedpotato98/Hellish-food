@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "hellish:enderio_warts"
+    },
+    "title": "enderio warts",
+    "description": "Obtain enderio warts",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "hellish:hellish",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hellish:enderio_warts"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

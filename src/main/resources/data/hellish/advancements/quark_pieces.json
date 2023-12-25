@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "hellish:quark_pieces"
+    },
+    "title": "quark pieces",
+    "description": "Obtain quark pieces",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "hellish:hellish",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hellish:quark_pieces"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
+

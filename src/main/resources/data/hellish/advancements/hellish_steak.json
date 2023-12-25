@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "hellish:hellish_steak"
+    },
+    "title": "hellish steak",
+    "description": "Obtain an hellish steak",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "hellish:hellish",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hellish:hellish_steak"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

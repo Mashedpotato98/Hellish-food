@@ -17,7 +17,7 @@ dependencies {
 
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
-	modImplementation "vazkii.patchouli:Patchouli:1.19.4"
+	//modImplementation "vazkii.patchouli:Patchouli:1.19.4"
 }
 
 base {
